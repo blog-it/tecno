@@ -1,0 +1,2 @@
+# tecno
+Tecno Blog
